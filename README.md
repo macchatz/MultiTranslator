@@ -1,6 +1,6 @@
 # MultiTranslator
 
-This multitool used translatr to automatically translate many keywords in multiple languages.
+This dummytool used translatr to automatically translate many keywords in multiple languages.
 
 There is a need of a file named : Checks.txt to exist, in order to translate the keywords that this file contains.
 
